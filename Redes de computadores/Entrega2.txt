@@ -1,0 +1,25 @@
+Classe de Rede: Classe C
+
+Rede Principal (LAN com fio):
+IP: 192.168.0.1 a 192.168.0.254
+Máscara de sub-rede: 255.255.255.0 (/24)
+
+Departamento de Vendas (WLAN):
+IP: 192.168.1.1 a 192.168.1.254
+Máscara de sub-rede: 255.255.255.0 (/24)
+
+Departamento de Marketing (WLAN):
+IP: 192.168.2.1 a 192.168.2.254
+Máscara de sub-rede: 255.255.255.0 (/24)
+
+Departamento de Financeiro (WLAN):
+IP: 192.168.3.1 a 192.168.3.254
+Máscara de sub-rede: 255.255.255.0 (/24)
+
+Departamento de Recursos Humanos (WLAN):
+Faixa de endereços IP: 192.168.4.1 a 192.168.4.254
+Máscara de sub-rede: 255.255.255.0 (/24)
+
+Departamento de Desenvolvimento (LAN com fio):
+IP: 192.168.5.1 a 192.168.5.254
+Máscara de sub-rede: 255.255.255.0 (/24)
