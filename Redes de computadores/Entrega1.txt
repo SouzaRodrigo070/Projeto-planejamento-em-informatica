@@ -1,0 +1,52 @@
+Lista de equipamentos necessários para cada departamento: 
+
+Financeiro 
+ Servidor 
+ Computadores 
+ Impressoras 
+ Calculadoras financeiras 
+ Telefones 
+ Software de contabilidade 
+ Scanner 
+
+RH (Recursos Humanos) 
+ Computadores 
+ Impressoras 
+ Scanner 
+ Telefones 
+ Software de gestão de RH 
+ Arquivos e armários 
+ Material de escritório (canetas, papéis, pastas, etc.) 
+
+Vendas 
+ Computadores 
+ Telefones 
+ Impressoras 
+ Software de CRM (Gestão de Relacionamento com o Cliente) 
+ Tablets ou notebooks (para uso em campo) 
+ Material de apresentação (projetores, flipcharts, etc.) 
+ Material de escritório (canetas, papéis, pastas, etc.) 
+
+Marketing 
+ Computadores 
+ Impressoras 
+ Software de design gráfico (Adobe Creative Suite, por exemplo) 
+ Software de análise de dados e SEO 
+ Câmeras e equipamentos de vídeo 
+ Microfones e equipamentos de áudio 
+ Material de escritório (canetas, papéis, pastas, etc.) 
+ Tablets ou notebooks (para mobilidade) 
+
+  
+
+Desenvolvimento 
+ Servidores (para testes e desenvolvimento) 
+ Computadores de alto desempenho 
+ Monitores adicionais 
+ Software de desenvolvimento (IDE, ferramentas de versionamento como Git, etc.) 
+ Equipamentos de rede (roteadores, switches, etc.) 
+ Mesas ergonômicas e cadeiras confortáveis 
+ Material de escritório (canetas, papéis, pastas, etc.) 
+ Telefones (opcional, dependendo da necessidade de comunicação) 
+
+ 
