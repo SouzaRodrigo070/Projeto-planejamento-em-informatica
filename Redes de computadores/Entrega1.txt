@@ -1,52 +1,65 @@
 Lista de equipamentos necessários para cada departamento: 
 
 Financeiro 
- Servidor 
- Computadores 
- Impressoras 
+ Computadores (optiplex small form factor)
+ Monitores ( Monitor Dell de 24" - S2421HN)
+ Impressoras (Multifuncional HP DeskJet série 2130 = IP: 192.168.1.55)  
  Calculadoras financeiras 
- Telefones 
+ Telefones (Ramal)
  Software de contabilidade 
- Scanner 
+ Material de escritório (canetas, papéis, pastas, etc.)
+
 
 RH (Recursos Humanos) 
- Computadores 
- Impressoras 
- Scanner 
- Telefones 
+ Computadores (optiplex small form factor)
+ Monitores ( Monitor Dell de 24" - S2421HN)
+ Impressora (IP: 192.168.1.55)
+ Telefones (Ramal) 
  Software de gestão de RH 
  Arquivos e armários 
  Material de escritório (canetas, papéis, pastas, etc.) 
 
 Vendas 
- Computadores 
- Telefones 
- Impressoras 
+ Computadores (Inspiron 15 3510)
+ Monitores adicionais ( Monitor Dell de 24" - S2421HN)
+ Telefones (Ramal)
+ Impressoras (IP: 192.168.1.31)
  Software de CRM (Gestão de Relacionamento com o Cliente) 
  Tablets ou notebooks (para uso em campo) 
  Material de apresentação (projetores, flipcharts, etc.) 
  Material de escritório (canetas, papéis, pastas, etc.) 
 
 Marketing 
- Computadores 
- Impressoras 
+ Computadores (Inspiron 15 3510)
+ Monitores adicionais ( Monitor Dell de 24" - S2421HN)
+ Impressora (color LaserJet Pro MFP M477fdw = IP: 192.168.1.31)
  Software de design gráfico (Adobe Creative Suite, por exemplo) 
  Software de análise de dados e SEO 
  Câmeras e equipamentos de vídeo 
+ Telefone (Ramal)
  Microfones e equipamentos de áudio 
  Material de escritório (canetas, papéis, pastas, etc.) 
  Tablets ou notebooks (para mobilidade) 
 
-  
+TI/Infra
+Servidor (HP dl 360 g9) Este servidor possui o AD(active directory) e o windows server 2012 como sistema operacional.
+SERVIDOR HP DL360E GEN 8 8 BAIAS 2.5 2 XEON 8 CORE 128GB, este servidor fica em nossa (MATRIX) e armazena nossas pastas fileserver.
+Rack Servidor Piso 36ux570 P/acessorios Intelbras/outro 19
+Equipamentos de rede (roteadores, switches 24 portas, etc.) 
+Computadores (Inspiron 15 3510)
+Impressora (Multifuncional HP Deskjet série 2050 - J510 = Ip: 192.168.1.37)
+Monitor para PC Full HD UltraWide LG LED para uso do grafana (ferramente de trafego de dados e analise de dados)
+Material de escritório (canetas, papéis, pastas, etc.)
+
+
 
 Desenvolvimento 
- Servidores (para testes e desenvolvimento) 
- Computadores de alto desempenho 
- Monitores adicionais 
+ Computadores de alto desempenho (latitude 3440)
+ Monitores adicionais ( Monitor Dell de 24" - S2421HN)
  Software de desenvolvimento (IDE, ferramentas de versionamento como Git, etc.) 
- Equipamentos de rede (roteadores, switches, etc.) 
  Mesas ergonômicas e cadeiras confortáveis 
  Material de escritório (canetas, papéis, pastas, etc.) 
  Telefones (opcional, dependendo da necessidade de comunicação) 
+ Impressora (Ip: 192.168.1.37)
 
  
