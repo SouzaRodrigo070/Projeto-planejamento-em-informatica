@@ -1,0 +1,45 @@
+Documentação do Processo de Construção e Treinamento do Modelo
+Introdução:
+	Este documento fornece uma visão detalhada do processo de construção e 
+	treinamento do modelo de aprendizado de máquina para a tarefa específica. 
+	Descreve as etapas, parâmetros selecionados e os resultados obtidos durante o desenvolvimento do modelo.
+Objetivo:
+	O objetivo principal deste modelo é evidenciar a preferência dos clientes em relação ao serviços prestados pela empresa Eco Company.
+
+Etapas do Processo:
+1. Exploração de Dados e Pré-processamento:
+	Coleta de Dados:
+		Optamos por criar a nossa própria base de dados ultilizando dados fictícios com informações sobre os serviços prestados para cada cliente e o valor total
+    de acordo com os meses de contrato. Dessa forma, a base de dados utilizada não necessitava de nenhuma manipulação depois de criada.
+2. Implementação de Modelos de Aprendizado de Máquina:
+	Escolha de Algoritmos:
+		Optamos por utilizar o RandomForest, pois foi o exemplo dado pelo professor e também é o modelo que temos maior familiaridade.
+	Implementação: 
+		No início utilizamos a biblioteca sklearn_model_selection na separação dos dados para treino e teste do algoritmo. Em seguida, utilizamos o RandomForestClassifier para
+    realizar o treino do modelo. Depois de treinado, fizemos as previsões usando o predict() e transformamos o resultado em uma Matriz Confusão.
+    Os resultados de precision, recall e f1-score foram obtidos utilizando sklearn.metrics.
+    
+3. Otimização e Validação do Modelo:
+	Otimização de Hiperparâmetros e Validação cruzada:
+		Escolhemos o GridSearchCV para a otmização dos Hiperparâmetros e a realização da validação cruzada.
+	Parâmetros do Modelo:
+		parametros = {'bootstrap':[True],
+              'n_estimators': [100, 300],
+              'max_depth': [ 6, 10],
+              'min_samples_leaf':[3,5],
+              'min_samples_split':[4,6],
+              }
+	Métricas de Avaliação:
+		Foram utilizados a seguintes métricas:
+    forest_grid_search = GridSearchCV(Algoritmo_floresta_aleatoria, parametros, cv=5,
+                                  scoring="accuracy",return_train_score=True,
+                                  verbose=True,n_jobs=1)
+		Resultados específicos obtidos:
+    A cada vez que o código é executado os dados são separados de formas diferentes e avaliados de formas diferentes.
+    Com o seguinte código é mostrado os melhores parâmetros segundo a avaliação do algoritmo:
+    forest_grid_search.best_params_
+    EX: {'bootstrap': True,
+         'max_depth': 6,
+         'min_samples_leaf': 3,
+         'min_samples_split': 6,
+         'n_estimators': 300}
