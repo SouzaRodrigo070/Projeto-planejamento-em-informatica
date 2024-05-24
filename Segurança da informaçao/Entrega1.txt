@@ -1,0 +1,153 @@
+Ameaças
+
+Acesso Não Autorizado: Possiveis intrusos ou visitantes sem autorização para transitar por áreas restritas do prédio, deixando equipamentos e dados vulneraveis.
+
+Roubo de Equipamentos: Sendo uma empresa de tecnologia, em sua maioria com equipamentos muito caros, o roubo é sempre uma ameaça.
+
+Desastres Naturais: Incêndios, inundações ou terremotos que podem danificar a infraestrutura.
+
+Falhas de Energia: Interrupções de energia que podem causar perdas de dados ou danificar equipamentos.
+
+Ataques Cibernéticos: Malwares, ransomwares, phishing e DDoS
+
+Acesso Não Autorizado a Redes: Obtenção de acesso as redes da empresa por hackers ou terceiros.
+
+Roubo de Dados: Dados sensiveis correm risco de serem roubados, sejam eles fisico ou digitais.
+
+Interceptação de Comunicações: Onde qualquer comunicação não criptografada pode ser vazada.
+
+Funcionários Maliciosos: Que podem querer prejudicar a empresa.
+
+Erro Humano: Acidentes como exclusão ou divigulção de dados.
+
+Provedores de Serviços: Que podem não estar seguindo as devidas práticas de segurança
+
+Equipamentos de IoT: Que podem acabar sendo comprometidos e causar diversos problemas a depender da rede em que estiverem inseridos.
+
+Vulnerabilidades
+
+Falta de Controle de Acesso: Falta de cartões magnéticos, biometria ou outras formas de limitar o acesso, fazendo com que terceiros possam adentrar à empresa.
+
+Segurança Frágil na Entrada: Portas e janelas que podem ser facilmente violadas.
+
+Localização de Equipamentos Críticos: Equipamentos criticos, como servidores, localizados em areas de fácil acesso.
+
+Ausência de Monitoramento: Seja ele por falta de câmeras ou sistemas de vigilância, principalmente em áreas chave
+
+Redes Wi-Fi Não Seguras: Criptografia fraca, facilmente comprometida.
+
+Softwares Desatualizados: Programas ou até sistemas operacionais desatualizados, podem oferecer brechas de segurança.
+
+Credenciais Fracas: Senhas muito simples, senhas reutilizadas e ausencia de autenticação multifator.
+
+Falta de Backup: Ausência de backups frequentes.
+
+Treinamento Insuficiente: Falta de treinamento adequado de segurança para os colaboradores.
+
+Exposição de Dados: Dados confidenciais armazenados de forma desleixada, acessivel.
+
+Integrações Inseguras: Conexões inseguras com qualquer terceiro.
+
+Dependencia de Fornecedores: Que podem muito bem estar colocando a sua segurança em risco, por não partilhar dos mesmos padrões.
+
+Análise de Riscos
+
+Acesso Não Autorizado
+Impacto: Alto
+Probabilidade: Média 
+
+Falta de Controle de Acesso
+Impacto: Alto
+Probabilidade: Média
+
+Roubo de Equipamentos
+Impacto: Alto
+Probabilidade :Baixa/Média 
+
+Segurança Frágil na Entrada
+Impacto: Alto
+Probabilidade: Média/Alta
+
+Desastres Naturais
+Impacto: Muito Alto
+Probabilidade: Baixa
+
+Localização de Equipamentos Críticos
+Impacto: Alto
+Probabilidade: Média
+
+Falhas de Energia
+Impacto: Médio
+Probabilidade: Média
+
+Ausência de Monitoramento
+Impacto: Alto
+Probabilidade: Média
+
+Ataques Cibernéticos
+Impacto: Muito Alto
+Probabilidade: Alta
+
+Redes Wi-Fi Não Seguras
+Impacto: Alto
+Probabilidade: Média
+
+Acesso Não Autorizado a Redes
+Impacto: Alto
+Probabilidade: Média
+
+Softwares Desatualizados 
+Impacto: Alto
+Probabilidade: Alta
+
+Roubo de Dados
+Impacto: Muito Alto
+Probabilidade: Alta
+
+Credenciais Fracas
+Impacto: Alto
+Probabilidade: Média
+
+Interceptação de Comunicações
+Impacto: Médio
+Probabilidade: Alta
+
+Falta de Backup
+Impacto: Muito Alto
+Probabilidade: Média
+
+Funcionários Maliciosos
+Impacto: Alto
+Probabilidade: Baixa
+
+Treinamento Insuficiente
+Impacto: Alto
+Probabilidade: Média
+
+Erro Humano
+Impacto: Médio/Alto
+Probabilidade: Alta
+
+Politicas de Segurança Inadequadas
+Impacto: Muito Alto
+Probabilidade: Média
+
+Exposição de Dados Sensiveis
+Impacto: Muito Alto
+Probabilidade: Média
+
+Provedores de Serviços
+Impacto: Médio/Alto
+Probabilidade: Alta
+
+Integrações Inseguras
+Impacto: Alto
+Probabilidade: Média
+
+Equipamentos de IoT
+Impacto: Alto
+Probabilidade: Alta
+
+Dependencia de Fornecedores
+Impacto: Médio/Alto
+Probabilidade: Média
