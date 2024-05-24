@@ -1,0 +1,95 @@
+       Medidas de Segurança
+
+Políticas de Controle de Acesso
+
+Política de Acesso Baseado em Função (RBAC)
+O acesso aos sistemas e dados será atribuído de acordo com as funções e deveres dos funcionários. Cada função terá permissões exclusivas que lhes permitirão acessar apenas os recursos necessários para realizar suas tarefas.
+
+Política de Autenticação Multifator (MFA)
+A autenticação multifator adiciona uma camada adicional de segurança além das senhas convencionais, permitindo que todos os usuários aceitem sistemas críticos e dados sensíveis.
+
+Política de Princípio de Menor Privilégio (PoLP)
+Os usuários terão apenas os privilégios necessários para executar as tarefas. Privilégios elevados só serão concedidos em situações excepcionais e serão revisados regularmente.
+
+Política de Acesso Remoto Seguro
+Somente dispositivos autorizados e gerenciados devem usar redes privadas virtuais (VPNs) seguras para obter acesso remoto aos sistemas e dados da empresa.
+
+Política de Revisão de Acesso Regular
+Os direitos de acesso dos usuários serão revisados regularmente para garantir que os direitos sejam adequados para as funções atuais dos funcionários e para identificar e corrigir acessos desnecessários.
+
+Política de Controle de Acesso Físico
+O acesso direto a áreas sensíveis, como salas de servidores e centros de dados, será restrito a funcionários designados. Outros níveis de acesso serão concedidos usando sistemas de controle de acesso, como cartões magnéticos ou biometria. 
+
+Política de Gestão de Senhas
+Senhas especiais atendendo a um subconjunto dos requisitos de complexidade alteradas regularmente não são reutilizadas. Contas privilegiadas atendendo a complexidade e alteração mais restritas com mais frequência.
+
+Política de Acesso Temporário
+Acessos temporários serão concedidos somente quando absolutamente necessário. Eles serão desativados imediatamente após a conclusão da tarefa específica para a qual foram autorizados ou no final de um período de tempo autorizado a ser usado.
+
+Política de Segregação de Funções (SoD)
+Funções críticas, tais como aquelas envolvendo transações financeiras ou administração de sistemas, serão segregadas entre diferentes indivíduos, a fim de deminuir a fraude e erros não detectados.
+
+Política de Monitoramento e Auditoria de Acessos
+Todas as tentativas de acesso aos sistemas e dados serão registradas e monitoradas. Esses registros serão revistos regularmente, em auditorias, a fim de identificar atividades suspeitas ou não autorizadas.
+
+Medidas de Detecção e Prevenção de Ataques
+
+Sistema de Detecção de Intrusão (IDS)
+Configurar alertas em caso de atividades suspeitas na rede: Utilize um IDS para monitorar o tráfego de rede e gerar alertas quando padrões suspeitos ou conhecidos de ataque forem detectados.
+
+Sistema de Prevenção de Intrusão (IPS)
+Bloquear automaticamente tráfego malicioso: Configure um IPS para não apenas detectar, mas também bloquear ativamente tentativas de intrusão e tráfego malicioso em tempo real.
+
+Firewalls de Próxima Geração (NGFW)
+Aplicar políticas de segurança avançadas: Utilize NGFWs que oferecem inspeção profunda de pacotes (DPI), controle de aplicativos e capacidades de prevenção de ameaças integradas para proteger contra ataques complexos.
+
+Monitoramento de Logs de Segurança
+Implementar um Sistema de Gerenciamento de Informações e Eventos de Segurança (SIEM): Colete, analise e correlacione logs de segurança de todos os sistemas e dispositivos para detectar e responder a incidentes em tempo real.
+
+Segurança de Endpoints (EPP)
+Instalar soluções de proteção de endpoints: Utilize software de segurança em todos os dispositivos da empresa para detectar e prevenir malware, ransomware e outras ameaças baseadas em endpoint.
+
+Análise de Tráfego da Rede (NTA)
+Monitorar tráfego em tempo real: Use ferramentas de NTA para analisar o tráfego de rede em tempo real, identificando comportamentos anômalos que possam indicar a presença de intrusões ou malware.
+
+Controle de Acesso à Rede (NAC)
+Verificar dispositivos antes de permitir acesso à rede: Configure sistemas NAC para garantir que apenas dispositivos autorizados e compatíveis com a política de segurança possam acessar a rede.
+
+Segmentação de Rede
+Dividir a rede em segmentos menores e mais seguros: Utilize VLANs e firewalls internos para segmentar a rede, limitando o movimento lateral de intrusos e reduzindo o impacto potencial de uma violação.
+
+Sandboxing de Arquivos e E-mails
+Isolar e analisar anexos de e-mails e downloads de arquivos: Utilize sandboxing para executar arquivos e anexos de e-mails em um ambiente isolado para detectar comportamento malicioso antes que atinjam os sistemas internos.
+
+Monitoramento Contínuo de Vulnerabilidades
+Realizar varreduras regulares de vulnerabilidades: Implemente ferramentas de escaneamento de vulnerabilidades para detectar e corrigir proativamente falhas de segurança nos sistemas e aplicativos.
+
+Proteção contra Phishing
+Implementar filtros de e-mail e treinamentos anti-phishing: Utilize soluções de filtragem de e-mails para bloquear tentativas de phishing e conduza treinamentos regulares para educar os funcionários sobre como identificar e reportar e-mails suspeitos.
+
+Configuração de Honeypots
+Implantar sistemas honeypot para atrair e analisar atacantes: Configure honeypots para enganar potenciais invasores, desviando ataques de sistemas críticos e coletando informações sobre as táticas utilizadas.
+
+Atualizações e Patches Regulares
+Manter todos os sistemas e softwares atualizados: Implemente uma política rigorosa de gerenciamento de patches para garantir que todas as vulnerabilidades conhecidas sejam corrigidas rapidamente.
+
+Detecção de Anomalias Baseada em Machine Learning
+Utilizar inteligência artificial para detectar comportamentos anômalos: Adote soluções de segurança baseadas em machine learning que aprendam o comportamento normal da rede e identifiquem anomalias que possam indicar uma ameaça.
+
+Controle de Dispositivos USB e Periféricos
+Restringir e monitorar o uso de dispositivos removíveis: Utilize software de controle de dispositivos para prevenir a introdução de malware através de USBs e outros periféricos não autorizados.
+
+Respostas Automáticas a Incidentes
+Automatizar respostas a incidentes comuns: Configure scripts e playbooks automáticos que respondam a incidentes de segurança comuns, como isolamento de endpoints comprometidos, para reduzir o tempo de resposta.
+
+
+
+
+
+
+
+
+
+
+
+
