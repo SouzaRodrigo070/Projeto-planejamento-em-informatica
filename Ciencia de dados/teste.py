@@ -18,7 +18,7 @@ sns.barplot(x='Category', y='Value', data=data)
 # Add labels and title
 plt.xlabel('Categories')
 plt.ylabel('Values')
-plt.title('Sample Seaborn Bar Plot')
+plt.title('Eco Company')
 
 # show the plot
 plt.show()
